@@ -17,5 +17,5 @@ npm install
 # Run Application
 ```
 node .
-node index.js
+node app.js
 ```
